@@ -5,10 +5,11 @@ body{
 }
 
 h1{
-    color:blue;
+    color:rgb(129, 129, 204);
 }
 
 
 button{
     padding:10px 20px;
+    color:bisque;
 }
